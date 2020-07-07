@@ -1,0 +1,1009 @@
+{
+  "metadata": {
+    "start_at": "2020-07-07 20:19:02.908003",
+    "end_at": "2020-07-07 20:19:02.912351",
+    "activities_count": 50
+  },
+  "activities_data": [
+    {
+      "performed_at": "2019-01-26 19:11:06",
+      "ticket_id": 0,
+      "performer_type": "user",
+      "performer_id": 0,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-12-05 17:00:12",
+      "ticket_id": 1,
+      "performer_type": "user",
+      "performer_id": 1,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Customer",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-03-16 10:21:29",
+      "ticket_id": 2,
+      "performer_type": "user",
+      "performer_id": 2,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-02-27 05:36:19",
+      "ticket_id": 3,
+      "performer_type": "user",
+      "performer_id": 3,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Customer",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-03-09 04:50:04",
+      "ticket_id": 4,
+      "performer_type": "user",
+      "performer_id": 4,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Third Party",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-03-21 09:00:04",
+      "ticket_id": 5,
+      "performer_type": "user",
+      "performer_id": 5,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-03-26 17:50:41",
+      "ticket_id": 6,
+      "performer_type": "user",
+      "performer_id": 6,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Open",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-03-07 11:33:08",
+      "ticket_id": 7,
+      "performer_type": "user",
+      "performer_id": 7,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Resolved",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-10-25 14:07:57",
+      "ticket_id": 8,
+      "performer_type": "user",
+      "performer_id": 8,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Resolved",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-04-03 09:29:01",
+      "ticket_id": 9,
+      "performer_type": "user",
+      "performer_id": 9,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Open",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-05-12 07:47:59",
+      "ticket_id": 10,
+      "performer_type": "user",
+      "performer_id": 10,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-10-01 08:19:35",
+      "ticket_id": 11,
+      "performer_type": "user",
+      "performer_id": 11,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Customer",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-09-30 04:42:28",
+      "ticket_id": 12,
+      "performer_type": "user",
+      "performer_id": 12,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-09-20 06:05:43",
+      "ticket_id": 13,
+      "performer_type": "user",
+      "performer_id": 13,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-01-23 08:11:34",
+      "ticket_id": 14,
+      "performer_type": "user",
+      "performer_id": 14,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-02-24 18:37:22",
+      "ticket_id": 15,
+      "performer_type": "user",
+      "performer_id": 15,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-01-20 05:32:09",
+      "ticket_id": 16,
+      "performer_type": "user",
+      "performer_id": 16,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-03-27 20:59:00",
+      "ticket_id": 17,
+      "performer_type": "user",
+      "performer_id": 17,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-04-24 02:13:38",
+      "ticket_id": 18,
+      "performer_type": "user",
+      "performer_id": 18,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Open",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-03-28 03:44:22",
+      "ticket_id": 19,
+      "performer_type": "user",
+      "performer_id": 19,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Third Party",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-04-30 00:07:55",
+      "ticket_id": 20,
+      "performer_type": "user",
+      "performer_id": 20,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Customer",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-04-08 03:00:55",
+      "ticket_id": 21,
+      "performer_type": "user",
+      "performer_id": 21,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-08-30 17:02:50",
+      "ticket_id": 22,
+      "performer_type": "user",
+      "performer_id": 22,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Open",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-09-27 11:54:38",
+      "ticket_id": 23,
+      "performer_type": "user",
+      "performer_id": 23,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Customer",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-03-16 19:17:42",
+      "ticket_id": 24,
+      "performer_type": "user",
+      "performer_id": 24,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Third Party",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-11-25 15:09:07",
+      "ticket_id": 25,
+      "performer_type": "user",
+      "performer_id": 25,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Open",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-01-30 12:23:07",
+      "ticket_id": 26,
+      "performer_type": "user",
+      "performer_id": 26,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Open",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-01-28 09:45:10",
+      "ticket_id": 27,
+      "performer_type": "user",
+      "performer_id": 27,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-09-05 20:24:23",
+      "ticket_id": 28,
+      "performer_type": "user",
+      "performer_id": 28,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Resolved",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-09-07 02:30:24",
+      "ticket_id": 29,
+      "performer_type": "user",
+      "performer_id": 29,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-02-11 05:12:38",
+      "ticket_id": 30,
+      "performer_type": "user",
+      "performer_id": 30,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-03-15 02:11:40",
+      "ticket_id": 31,
+      "performer_type": "user",
+      "performer_id": 31,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-09-21 03:47:36",
+      "ticket_id": 32,
+      "performer_type": "user",
+      "performer_id": 32,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Customer",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-02-02 10:36:22",
+      "ticket_id": 33,
+      "performer_type": "user",
+      "performer_id": 33,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-03-29 21:07:13",
+      "ticket_id": 34,
+      "performer_type": "user",
+      "performer_id": 34,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Third Party",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-02-23 16:29:37",
+      "ticket_id": 35,
+      "performer_type": "user",
+      "performer_id": 35,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-02-12 22:04:28",
+      "ticket_id": 36,
+      "performer_type": "user",
+      "performer_id": 36,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Customer",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-08-09 08:28:56",
+      "ticket_id": 37,
+      "performer_type": "user",
+      "performer_id": 37,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Customer",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-06-29 00:28:30",
+      "ticket_id": 38,
+      "performer_type": "user",
+      "performer_id": 38,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Open",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-12-12 10:52:39",
+      "ticket_id": 39,
+      "performer_type": "user",
+      "performer_id": 39,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Resolved",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-04-12 08:54:47",
+      "ticket_id": 40,
+      "performer_type": "user",
+      "performer_id": 40,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Third Party",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-08-13 18:24:54",
+      "ticket_id": 41,
+      "performer_type": "user",
+      "performer_id": 41,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-02-21 21:10:06",
+      "ticket_id": 42,
+      "performer_type": "user",
+      "performer_id": 42,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-06-11 00:34:19",
+      "ticket_id": 43,
+      "performer_type": "user",
+      "performer_id": 43,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-03-21 02:24:28",
+      "ticket_id": 44,
+      "performer_type": "user",
+      "performer_id": 44,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Pending",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-06-07 15:17:46",
+      "ticket_id": 45,
+      "performer_type": "user",
+      "performer_id": 45,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Open",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-02-11 20:46:56",
+      "ticket_id": 46,
+      "performer_type": "user",
+      "performer_id": 46,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-02-16 02:14:22",
+      "ticket_id": 47,
+      "performer_type": "user",
+      "performer_id": 47,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Resolved",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2019-04-16 18:48:14",
+      "ticket_id": 48,
+      "performer_type": "user",
+      "performer_id": 48,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Closed",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    },
+    {
+      "performed_at": "2020-05-15 00:51:46",
+      "ticket_id": 49,
+      "performer_type": "user",
+      "performer_id": 49,
+      "activity": {
+        "shipping_address": "N/A",
+        "shipment_date": "21 Apr, 2017",
+        "category": "Phone",
+        "contacted_customer": true,
+        "issue_type": "Incident",
+        "source": 3,
+        "status": "Waiting for Third Party",
+        "priority": 4,
+        "group": "refund",
+        "agent_id": 149018,
+        "requester": 145423,
+        "product": "mobile"
+      }
+    }
+  ]
+}
